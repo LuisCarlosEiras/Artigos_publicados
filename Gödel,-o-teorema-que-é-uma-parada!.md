@@ -1,3 +1,5 @@
+Gödel, o teorema que é uma parada!
+
 **Luís Carlos Silva Eiras**
 
 O matemático Raymond Smullyan fez uma proeza: colocou o teorema de Gödel com suas 46 definições preliminares, 34 páginas  e dezenas de símbolos e fórmulas em apenas meia página.
