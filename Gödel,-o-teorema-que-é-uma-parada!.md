@@ -49,5 +49,5 @@ _http://blog.plover.com/math/Gdl-Smullyan.html_  [Acesso em: 25 junho 2017]
 
 Alan Sokal  e Jean Bricmont, **Imposturas Intelectuais, O abuso da ciência pelos filósofos pós-modernos**,  Record, 1999.
 
-Revista Fonte, dezembro, 2010, págs. 129-130, https://www.prodemge.gov.br/revista-fonte/Publication/11-Gestao-do-Conhecimento
+**Revista Fonte**, dezembro, 2010, págs. 129-130, https://www.prodemge.gov.br/revista-fonte/Publication/11-Gestao-do-Conhecimento
 
