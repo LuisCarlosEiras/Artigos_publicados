@@ -1,3 +1,5 @@
+Savassi, um mapa da crise
+
 **Luís Carlos Silva Eiras**
 
 O sujeito concorda com o verbo, daí os alugam-se e vendem-se. Mas se tiver preposição depois do verbo, fica no singular: passa-se o ponto. Mas quem vai se preocupar com gramática em tempos de crise? Pois a Savassi - o bairro de comercial elegante em Belo Horizonte -  está cheia de vende-se e aluga-se. 
