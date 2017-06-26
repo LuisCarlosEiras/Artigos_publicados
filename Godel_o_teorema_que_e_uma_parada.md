@@ -41,7 +41,7 @@ Opa! O comando (7) RINRI não pode ser demonstrado, pois se está mandando fazer
 
 Mas o pior – eis a grande contribuição de Gödel – é o comando (8) NRINRI (_não repita imprima não repita imprima_): se o computador mostrar qualquer processamento na tela, então, o comando é falso.  Se não mostrar, o comando é verdadeiro, mas não pode ser visto. Gödel concluiu que nenhum sistema lógico possui consistência interna. Assim, existem comandos e resultados verdadeiros que não podem ser demonstrados. E muitos nem conhecidos.
 
-A partir do teorema de Gödel, Alan Turing propôs, em 1936, uma máquina que, deixando os paradoxos de lado, fosse capaz de resolver qualquer problema que pudesse ser resolvido, inclusive, substituindo o computador, isto é, o funcionário das grandes empresas que trabalhava na contabilidade.
+A partir do teorema de Gödel, Alan Turing propôs, em 1936, uma máquina que, deixando os paradoxos de lado, fosse capaz de resolver qualquer problema que pudesse ser resolvido, isto é, apenas o primeiro bloco acima. A tal máquina, previa Turing, iria substituir o computador, isto é, o funcionário das grandes empresas que trabalhava na contabilidade.
 
 E, para os programadores, Turing lembrava da “maldição da parada”. Quando um programa demora para ser processado, nunca se saberá de antemão se é devido à complexidade do problema, à lerdeza do processador, a alguma falha de produção ou aos paradoxos de Gödel – o cachorro correndo atrás do rabo, o  comando NRINRI acima – espalhados no meio do caminho.
 
