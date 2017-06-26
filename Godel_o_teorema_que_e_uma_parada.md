@@ -12,7 +12,10 @@ A palestra de Gödel foi um espanto. Ele não tinha resolvido a questão dos par
 
 Mas, o matemático Raymond Smullyan fez uma proeza: colocou o teorema de Gödel com suas 46 definições preliminares, 34 páginas  e dezenas de símbolos e fórmulas em apenas meia página.
 
-Para torná-lo tão simples, Raymond Smullyan usou um truque de ficção científica: uma máquina de 1936 para explicar o teorema de 1931. Imagina-se  um computador composto de teclado, onde se pode escrever qualquer coisa, um processador capaz de processar o que vem do teclado desde que consistente, e uma tela dividida em duas partes: de um lado, o que foi digitado; do outro, o resultado do processamento. Enfim, um sistema de informação absolutamente banal.
+Para torná-lo tão simples, Raymond Smullyan usou um truque de ficção científica: uma máquina de 1936 para explicar o teorema de 1931. Imagina-se  um computador composto de: 
+* um teclado, onde se pode escrever qualquer coisa, 
+* um processador capaz de processar o que vem do teclado desde que consistente, e 
+* uma tela dividida em duas partes: de um lado, o que foi digitado; do outro, o resultado do processamento. Enfim, um sistema de informação absolutamente comum.
 É criado, então, um sistema lógico, uma linguagem, com apenas três comandos: I (de _imprima_), N (de _não_) e R (de _repita_), que será colocado à prova. E o _X_, que será utilizado como dado inicial do teste.
 
 | No teclado | Na tela (Comando)|(Processamento)|
