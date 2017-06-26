@@ -20,7 +20,7 @@ Por fim, as fotos foram para o Google Maps, onde ganharam no mapa da Savasi o pi
 ![](https://3.bp.blogspot.com/-IL9Zm5HcedU/Vi5xxmMJBCI/AAAAAAAAFWM/S7pF_ePGvKQ/s1600/Fig.%2B3.jpg)
 
 
-Notas: 
+**Notas:**
 
 [1] https://ifttt.com
 
