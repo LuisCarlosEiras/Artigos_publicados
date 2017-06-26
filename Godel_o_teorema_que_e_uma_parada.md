@@ -6,7 +6,7 @@ O teorema de Gödel é complicado. Muitos livros tentam explicá-lo desde cláss
 
 Por isso, intelectuais como Julia Kristeva, Jean-François Lyotard, Gilles Deleuze, Félix Guattari, Régis Debray, Paul Virilio e Michel Serres o citam sem pé nem cabeça ao retirá-lo da matemática e da lógica e aplicá-lo por ignorância pernóstica nas ciências sociais. O humor gerado é involuntário, ainda que de difícil localização, já que o humor involuntário está presente em tudo que escrevem.
 
-Em 1930, Gödel fez uma palestra em Viena. Esperava-se que ele tivesse resolvido o problema dos paradoxos, a parte mais desagradável – para quem quer conhecimento sem contradições – ou a mais divertida da lógica. O mais antigo desses paradoxos é o do cretense5  que teria dito: “_Todo cretense é mentiroso_”. Ou ele estava mentindo, portanto, estava falando a verdade; ou ele estava falando a verdade, portanto, estava mentindo.
+Em 1930, Gödel fez uma palestra em Viena. Esperava-se que ele tivesse resolvido o problema dos paradoxos, a parte mais desagradável – para quem quer conhecimento sem contradições – ou a mais divertida da lógica. O mais antigo desses paradoxos é o do cretense  que teria dito: “_Todo cretense é mentiroso_”. Ou ele estava mentindo, portanto, estava falando a verdade; ou ele estava falando a verdade, portanto, estava mentindo.
 
 A palestra de Gödel foi um espanto. Ele não tinha resolvido a questão dos paradoxos, pelo contrário, demonstrou que a coisa era muito pior. No ano seguinte, publicou _Sobre as Proposições Indecidíveis dos **Principia Mathematica**  e Sistemas Correlatos_, onde está o teorema.
 
