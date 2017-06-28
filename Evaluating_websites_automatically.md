@@ -123,11 +123,12 @@ Currently, webmasters do not have a tool that allows them to a) evaluate all asp
 
 The new system proposed in this article launches a new way to evaluate web sites since it considers them an informational system in a changing environment. In conclusion, this article proposes a new web site evaluation tool that is as dynamic as the Internet.
 
-**More to explore**
+**More to explore:**
 
 BRAJNIK, G. Automatic web usability: what needs to be done? http://www.tri.sbc.com/hfweb/brajnik/hfweb-brajnik.html. Accessed on: June 26, 2005.
 
-EIRAS, L.C.S. A Methodology to Evaluate Sites Automatically. Belo Horizonte: ECI-UFMG. 2005. 126 p.
+EIRAS, L.C.S. Uma metodologia para avaliação automática de sites. http://www.bibliotecadigital.ufmg.br/dspace/handle/1843/VALA-6K5N4H
+http://www.scielo.br/pdf/pci/v11n1/v11n1a11.pdf. Acessedon: June 28, 2017. 
 
 SHERMAN, C., PRICE, G. The Invisible Web: Uncovering Information Sources Search Engines Can't see. New York: CyberAge Book. 2001. 439 p.
 
@@ -135,7 +136,7 @@ SWEETLAND, J. H. Reviewing the World Wide Web: theory versus reality. Library Tr
 
 VILELLA, R. M. Content, Usability and Functionaly: Three dimensions for the evaluation of the state government web portals. Belo Horizonte: ECI-UFMG. 2003. 263 p.
 
-**References**
+**References:**
 
 [1] luiscarloseiras@gmail.com
 
