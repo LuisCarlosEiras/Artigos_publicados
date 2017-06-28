@@ -176,4 +176,4 @@ http://searchenginewatch.com/sereport/article.php/2165061, where the author Dann
 
 [19] For an introduction about this subject, see RAMOS, C. S. Cartography Visualization and Multimedia Cartography. São Paulo: Editora UNESP, 2003. 178 p.
 
-http://evaluatingwebsitesautomatically.blogspot.com.br/
+Published: http://evaluatingwebsitesautomatically.blogspot.com.br/ Monday, October 23, 2006.
