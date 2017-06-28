@@ -78,9 +78,7 @@ Besides the main DNS, the program should be able to identify all possible IP and
 
 In the methodology outlined in this article, the software Astra SiteManager provides a map with the connections among the URLs available on the web site. Since these connections are displayed visually, it is necessary to create an automated analysis of these visuals in order to easily identify which information is buried too far away from the home page and the navigation bar. By doing so, it will be possible to recommend changes to improve usability.
 
-![](http://photos1.blogger.com/blogger/6917/4079/320/imagem3.jpg)
-
-![](http://photos1.blogger.com/blogger/6917/4079/320/imagem4.jpg)
+![](http://photos1.blogger.com/blogger/6917/4079/320/imagem3.jpg)![](http://photos1.blogger.com/blogger/6917/4079/320/imagem4.jpg)
 
 
 _Figures 1 and 2 – Maps of Agridata (http://www.agridata.mg.gov.br/) and Palácio das Artes (http://www.palaciodasartes.com.br/), on 1/12/05 and 1/20/05 respectively._ SOURCE: Astra SiteManager.
