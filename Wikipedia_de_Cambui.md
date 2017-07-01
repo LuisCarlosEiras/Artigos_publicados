@@ -1,5 +1,5 @@
 A [Wikipédia de Cambuí](http://www.cambui.wiki.br/index.php/P%C3%A1gina_principal)
-foi lançada no dia 15 de outubro de 2015. Até 30 de junho de 2017 tinha sido acessada 7.907 vezes por 5.612 pessoas, que viram 15.734 páginas, segundo o **Google Analytics**:
+foi lançada no dia 15 de outubro de 2015. Até 30 de junho de 2017 tinha sido acessada 7.907 vezes por 5.612 usuários, que viram 15.734 páginas, segundo o **Google Analytics**:
 
 [![acessoswiki2017.jpg](https://s20.postimg.org/emxgzefh9/acessoswiki2017.jpg)](https://postimg.org/image/lq5cf0kwp/)
 
