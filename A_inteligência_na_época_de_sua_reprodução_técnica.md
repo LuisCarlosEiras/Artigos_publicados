@@ -1,4 +1,4 @@
-###A inteligência na época de sua reprodução técnica
+##A inteligência na época de sua reprodução técnica
 
 **Luís Carlos Silva Eiras**
  
