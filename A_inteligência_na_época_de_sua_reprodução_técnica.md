@@ -1,4 +1,6 @@
-A INTELIGÊNCIA NA ÉPOCA DE SUA REPRODUÇÃO TÉCNICA 
+###A inteligência na época de sua reprodução técnica
+
+**Luís Carlos Silva Eiras**
  
 Preâmbulo   
  
