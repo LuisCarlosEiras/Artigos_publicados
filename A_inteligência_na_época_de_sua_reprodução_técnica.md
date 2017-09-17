@@ -1,6 +1,6 @@
-##A inteligência na época de sua reprodução técnica
+## Evaluating web sites automatically: a new methodology and software
 
-**Luís Carlos Silva Eiras**
+**Luís Carlos Silva Eiras** 
  
 Preâmbulo   
  
