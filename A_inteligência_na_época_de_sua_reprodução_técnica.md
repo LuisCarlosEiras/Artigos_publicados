@@ -74,6 +74,7 @@ produção, que faz com que, numa mesma mercadoria, possa muitas vezes ser ident
 É possível que daqui a uns cinqüenta anos uma honesta máquina de xadrez de Maelzel seja construída. Mesmo que não seja uma máquina imbatível - as probabilidades do jogo desautorizam uma máquina capaz de prever todas as combinações - será uma máquina extraordinária: deverá conter as regras do jogo, as aberturas, as táticas, estratégias e defesas, as lições dos grandes mestres, possibilitar a continuação de qualquer partida a partir de qualquer etapa, além de lições para aprendizes.  Essa máquina, entretanto, irá resolver problemas infinitamente mais complexos  do que os condutores  dos metrôs e dos trens, funcionários de bancos e empresas de seguros, telefonistas, arquivistas, gráficos, desenhistas técnicos, empacotadores, reveladores de fotografias, operários da indústria química, das siderúrgicas e das fábricas  de  automóveis, tecelões,  ascensoristas de elevador, operadores de cinema  e, sobretudo, dos operários da fábrica de alfinetes que faziam as 18 operações descritas por Adam Smith.  
 
 **Referência:**
+
 **O Teste de Turing, Um romance policial sobre bancos, inteligência artificial e o pecado da usura**
 https://www.amazon.com.br/Teste-Turing-policial-intelig%C3%AAncia-artificial-ebook/dp/B012BKI9Y0/ref=sr_1_1?ie=UTF8&qid=1505680525&sr=8-1&keywords=teste+de+turing
 
