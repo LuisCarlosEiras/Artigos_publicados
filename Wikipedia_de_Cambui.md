@@ -1,4 +1,4 @@
-https://s20.postimg.org/ctvepyzrx/logowikicambuisurl.jpg
+![](https://s20.postimg.org/ctvepyzrx/logowikicambuisurl.jpg)
 
 A [Wikipédia de Cambuí](http://www.cambui.wiki.br/index.php/P%C3%A1gina_principal)
 foi lançada no dia 15 de outubro de 2015. Até 30 de junho de 2017 tinha sido acessada 7.910 vezes por 5.615 usuários, que viram 15.740 páginas, segundo o **Google Analytics**:
